@@ -1,3 +1,5 @@
+import 'bootswatch/dist/lumen/bootstrap.css'; // new
+
 import React from 'react';
 import { HashRouter, Route, Routes } from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
